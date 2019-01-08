@@ -1,0 +1,7 @@
+*.pyc
+._*
+*.retry
+*.tmp
+*.backup
+.env
+*.swp
